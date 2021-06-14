@@ -1,0 +1,23 @@
+[
+    {
+        "codigo": "01",
+        "nombre": "Santander Rio",
+        "sigla": "STR",
+        "tasa": 0.42,
+        "imagen":"https://4.bp.blogspot.com/-oDAbn7pY67o/WrwYZVEVj8I/AAAAAAAAMFY/hV9iHsA0K7UTMVZvLI-xe072mEkzQrpXACLcBGAs/s1600/logo%2Bsantander%2Bnuevo2.jpg"
+    },
+    {
+        "codigo": "02",
+        "nombre": "Galicia",
+        "sigla": "GLC",
+        "tasa": 0.33,
+        "imagen":"https://tercersector.org.ar/wp-content/uploads/2020/04/1239999236666769664_1239999236666769664.png"
+    },
+    {
+        "codigo": "03",
+        "nombre": "Nacion",
+        "sigla": "BNC",
+        "tasa": 0.4087,
+        "imagen":"https://pbs.twimg.com/profile_images/1012385245914697729/DT_3yeDJ_400x400.jpg"
+    }
+]
